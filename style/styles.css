@@ -1,0 +1,45 @@
+header {
+	background-image: url("../img/banner.jpg");
+	text-align: center;
+	background-size: cover;
+}
+h1 {
+font-size: 200px;
+text-align: center;
+color: #FFFFFF;
+}
+
+h2 {
+font-size: 40px;
+}
+h3 {
+font-size: 20px;
+}
+
+h4 {
+font-size: 24px;
+}
+p {
+font-size : 18px
+}
+.white {
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.orange {
+	color: #F04D23;
+}
+body {
+	background-color: #FFFFFF;
+}
+ul {
+	list-style : none;
+}
+.sto{
+	font-size: 100px;
+	text-align: center;
+}
+footer{
+text-align: center;
+}	
